@@ -1,0 +1,21 @@
+>Ambiguidades sequencia
+ATGATTGVWAAAKNMCCGGAA
+>Ambiguidade_01
+AGATTGAGGGCTACCCTGAAA
+>Ambiguidade_02
+ATGATTGGACGCAAGGTTCAA
+>Ambiguidade_03
+ATGATTGTACTGGAACCTCAA
+>Inverso_ambiguidade_03
+AACTCCAAGGTCATGTTAGTA
+>Complemento_inverso_ambiguidade_03
+TTACCCATTTTGCTGGGAATT
+>Reverso_completo_ambiguidade_03
+TTAAGGGTCGTTTTACCCATT
+Tradução_ambiguidade
+
+
+
+
+
+
